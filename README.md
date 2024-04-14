@@ -1,3 +1,4 @@
+![logo](https://github.com/garv0601/garv0601/blob/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Garvit Bansal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt=" coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
